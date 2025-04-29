@@ -1,0 +1,18 @@
+16;Katerina Petrowa;12122405;50.00;611
+15;Tsvetina Tomowa;12122406;50.00;611
+17;Mihaela Mihaylowa;12121212;50.00;123
+10;kateto kkk;1;1.00;1
+4;ffff;fff;23.00;33
+2;ff;1;2.00;50
+9;Katerin p;12;12.00;45
+8;Tsveti t;12;45.00;89
+6;mimi m;43;56.00;8
+11;Katetpo ppp;12;23.00;54
+8;tsveti t;12;611.00;78
+6;mimi m;11;611.00;33
+6;kateto;12;611.00;33
+8;tsveti k;21;611.00;33
+5;mimi ;23;45.00;78
+9;tsveti t ;611;23.00;44
+7;mimi m ;33;23.00;45
+8;kateti k;611;33.00;789

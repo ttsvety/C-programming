@@ -108,7 +108,7 @@ void sort_nums(char *filename, char *txtFile) {
     }
 
     FILE *out;
-    if((out = fopen(txtFile, "wb"))==NULL){
+    if((out = fopen(txtFile, "w"))==NULL){
         printf("Cannot open file");
         free(arr);
         exit(1);
